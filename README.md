@@ -9,3 +9,5 @@ To run:
 5) An excel with PS-order with the first 3 columns as attached.
 6) Fill your username and password in the script.
 <img width="854" alt="image" src="https://github.com/mokshpapneja/PS-script/assets/84846039/6b8e8280-5dcd-4ed4-ae99-d32488e0dcd8">
+
+Run it ,let the script do the sorting and when it's done, CLICK on save pref.
